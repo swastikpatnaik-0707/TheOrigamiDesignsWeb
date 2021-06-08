@@ -1,0 +1,40 @@
+h1{
+    color: rgb(80, 80, 80);
+    margin: 30px;
+    
+}
+
+.header{
+    background-color: aquamarine;
+    display: block;
+}
+
+.panda{
+    background-color: rgb(240, 206, 155);
+    display: block;
+}
+
+.teddyBear{
+    background-color: rgb(235, 235, 120);
+    display: block;
+}
+
+.chameleon{
+    background-color: rgb(150, 200, 250);
+    display: block;
+}
+
+.pigeon{
+    background-color: pink;
+    display: block;
+}
+
+.cicada{
+    background-color: rgb(210, 210, 210);
+    display: block;
+}
+
+.camel{
+    background-color: rgb(170, 250, 170);
+    display: block;
+}
